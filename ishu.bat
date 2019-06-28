@@ -1,0 +1,2 @@
+set path=C:\Oracle\Middleware\jdk160_29\bin;
+set classpath=C:\Oracle\Middleware\wlserver_12.1\server\lib\weblogic.jar;D:\ShoppingSite\WEB-INF\lib\cos.jar;D:\jar files\mailactivation\activation.jar;D:\jar files\mailactivation\mail.jar;D:\jar files\mailactivation\dsn.jar;D:\jar files\mailactivation\gimap.jar;D:\jar files\mailactivation\imap.jar;D:\jar files\mailactivation\mailapi.jar;D:\jar files\mailactivation\pop3.jar;D:\jar files\mailactivation\smtp.jar;
